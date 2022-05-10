@@ -1,0 +1,2 @@
+# Source List for iVerilog
+hdl/AXIS_Split_v1_0.v

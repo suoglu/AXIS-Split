@@ -1,0 +1,115 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue May 10 22:44:24 2022
+[*]
+[dumpfile] "/home/suoglu/Projects/Personal/axis-split/src/ip_repo/AXIS_Split_1.0/sim.vcd"
+[dumpfile_mtime] "Tue May 10 22:43:43 2022"
+[dumpfile_size] 20263
+[savefile] "/home/suoglu/Projects/Personal/axis-split/src/ip_repo/AXIS_Split_1.0/sim/sim.gtkw"
+[timestart] 0
+[size] 1920 1011
+[pos] -1971 -19
+*-12.941288 7310 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[sst_width] 221
+[signals_width] 222
+[sst_expanded] 1
+[sst_vpaned_height] 287
+@200
+-No Buffer
+@28
+tb.axis_aclk
+tb.axis_aresetn
+@820
+tb.state[240:0]
+@200
+-Slave
+@28
+tb.s_axis_tvalid_nb
+tb.s_axis_tready_nb
+@22
+tb.s_axis_tdata_nb[31:0]
+@28
+tb.s_axis_tlast_nb
+@29
+tb.s_axis_tstrb_nb[3:0]
+@200
+-Master
+@28
+tb.m_axis_tvalid_nb
+tb.m_axis_tready_nb
+@22
+tb.m_axis_tdata_nb[15:0]
+@28
+tb.m_axis_tlast_nb
+tb.m_axis_tstrb_nb[1:0]
+@200
+-UUT
+@28
+tb.uut_nb.state
+@200
+-Half Buffer
+@28
+tb.axis_aclk
+tb.axis_aresetn
+@820
+tb.state[240:0]
+@200
+-Slave
+@28
+tb.s_axis_tvalid_hb
+tb.s_axis_tready_hb
+@22
+tb.s_axis_tdata_hb[31:0]
+@28
+tb.s_axis_tlast_hb
+@29
+tb.s_axis_tstrb_hb[3:0]
+@200
+-Master
+@28
+tb.m_axis_tvalid_hb
+tb.m_axis_tready_hb
+@22
+tb.m_axis_tdata_hb[15:0]
+@28
+tb.m_axis_tlast_hb
+tb.m_axis_tstrb_hb[1:0]
+@200
+-UUT
+@28
+tb.uut_hb.state
+@200
+-Full Buffer
+@28
+tb.axis_aclk
+tb.axis_aresetn
+@820
+tb.state[240:0]
+@200
+-Slave
+@28
+tb.s_axis_tvalid_fb
+tb.s_axis_tready_fb
+@22
+tb.s_axis_tdata_fb[31:0]
+@28
+tb.s_axis_tlast_fb
+@29
+tb.s_axis_tstrb_fb[3:0]
+@200
+-Master
+@28
+tb.m_axis_tvalid_fb
+tb.m_axis_tready_fb
+@22
+tb.m_axis_tdata_fb[15:0]
+@28
+tb.m_axis_tlast_fb
+tb.m_axis_tstrb_fb[1:0]
+@200
+-UUT
+@28
+tb.uut_fb.state
+[pattern_trace] 1
+[pattern_trace] 0
