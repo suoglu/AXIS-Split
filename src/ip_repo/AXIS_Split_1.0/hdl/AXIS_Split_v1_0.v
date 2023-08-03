@@ -6,6 +6,7 @@
  * File        : AXIS_Split_v1_0.v                  *
  * Author      : Yigit Suoglu                       *
  * Last Edit   : 10/05/2022                         *
+ * Licence     : CERN-OHL-W                         *
  * ------------------------------------------------ *
  * Description : Splits one AXI-Stream transmission *
  *               to two                             *

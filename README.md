@@ -9,6 +9,7 @@
    3. Utilization
 3. Simulation
 4. Status Information
+5. Licence
 
 [![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-6C488A.svg)](https://gitlab.com/suoglu/axis-split)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-3D76C2.svg)](https://github.com/suoglu/AXIS-Split)
@@ -68,7 +69,6 @@ I: Input  O: Output B: Bus
 - LUT as Logic: 15
 - Register as Flip Flop: 53
 
-
 ## Simulation
 
 Two cases for each buffer mode tested. First case continuously transmitting stream, while second case tests single transmissions. All optional ports are enabled, and all data generated randomly. In all cases, slave interface transmissions assumed to be full comply with AXI-Stream protocol.
@@ -76,3 +76,7 @@ Two cases for each buffer mode tested. First case continuously transmitting stre
 ## Status Information
 
 **Last Simulation:** 10 May 2022, with [Icarus Verilog](http://iverilog.icarus.com).
+
+## Licence
+
+CERN Open Hardware Licence Version 2 - Weakly Reciprocal
